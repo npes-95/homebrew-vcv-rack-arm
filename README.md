@@ -1,10 +1,12 @@
-# Npes95 Vcv-rack-arm
+# vcv-rack-arm
+
+Tap for VCV Rack ARM builds. Currently in beta.
 
 ## How do I install these formulae?
 
-`brew install npes95/vcv-rack-arm/<formula>`
+`brew install npes95/vcv-rack-arm`
 
-Or `brew tap npes95/vcv-rack-arm` and then `brew install <formula>`.
+Or `brew tap npes95/vcv-rack-arm` and then `brew install vcv-rack-arm`
 
 ## Documentation
 
