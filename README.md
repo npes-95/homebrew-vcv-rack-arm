@@ -1,6 +1,6 @@
 # vcv-rack-arm
 
-Tap for VCV Rack ARM builds. Currently in beta.
+Tap for VCV Rack ARM builds. Currently in [beta](https://community.vcvrack.com/t/rack-development-blog/5864/89).
 
 ## How do I install these formulae?
 
