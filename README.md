@@ -6,7 +6,7 @@ Tap for VCV Rack ARM builds. Currently in [beta](https://community.vcvrack.com/t
 
 `brew install npes95/homebrew-vcv-rack-arm`
 
-Or `brew tap npes95/homebrew-vcv-rack-arm` and then `brew install hombrew-vcv-rack-arm`
+Or `brew tap npes95/homebrew-vcv-rack-arm` and then `brew install vcv-rack-arm`
 
 ## Documentation
 
